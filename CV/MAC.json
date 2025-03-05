@@ -169,7 +169,27 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Opinion System in Laravel 9",
+        "startDate": "2024-01-01",
+        "institution": {
+          "name": "OpenWebinars",
+          "description": " • Connect a system with a database.\n • Manage some basic administration functions from PHP.\n • Design a web system with a framework.\n • Build a secure web system.\n • Understand what it is and how to implement an access system."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Superior Degree in Web Development",
         "startDate": "2022-09-01",
