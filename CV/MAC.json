@@ -459,14 +459,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AJAX",
-          "type": "technology"
-        },
-        {
-          "name": "AWS",
-          "type": "technology"
-        },
-        {
           "name": "AngularJS",
           "type": "technology"
         },
