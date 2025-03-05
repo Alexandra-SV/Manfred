@@ -166,6 +166,14 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
