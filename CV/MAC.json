@@ -176,6 +176,12 @@
       },
       {
         "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Team player",
           "type": "practice"
         }
