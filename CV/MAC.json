@@ -78,18 +78,6 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
           "type": "technology"
         }
@@ -162,7 +150,19 @@
       },
       {
         "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -237,14 +237,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
         "name": "Java",
         "type": "technology"
       },
@@ -254,6 +246,14 @@
       },
       {
         "name": "Scss",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      },
+      {
+        "name": "jQuery",
         "type": "technology"
       }
     ],
