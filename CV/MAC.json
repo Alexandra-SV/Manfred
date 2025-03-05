@@ -487,6 +487,10 @@
           "type": "technology"
         },
         {
+          "name": "Scss",
+          "type": "technology"
+        },
+        {
           "name": "Vue",
           "type": "technology"
         }
