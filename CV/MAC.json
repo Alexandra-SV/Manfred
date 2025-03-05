@@ -257,6 +257,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I really value continuous learning and interest in trying new tools and sharing the knowledge gained. Knowledge should flow between colleagues, as I think this is the best way to learn. Training should be a fundamental pillar to continue improving every day and stay motivated at work.  I prefer remote work."
+    "desiredJobDescription": "I really value continuous learning and interest in trying new tools and sharing the knowledge gained. Knowledge should flow between colleagues, as I think this is the best way to learn. Training should be a fundamental pillar to continue improving every day and stay motivated at work.  I prefer remote work.",
+    "goodPractices": "I am interested in maintaining high quality code, using tools like Sonarqube while also implementing good coding practices. "
   }
 }
