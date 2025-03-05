@@ -459,10 +459,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "AngularJS",
-          "type": "technology"
-        },
-        {
           "name": "Bootstrap",
           "type": "technology"
         },
