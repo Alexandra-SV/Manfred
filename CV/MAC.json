@@ -167,6 +167,136 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Superior Degree in Web Development",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "IES Abastos"
+        },
+        "finishDate": "2024-06-01",
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS EC2",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "DBeaver",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Gitflow",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "Transact-SQL (T-SQL)",
+            "type": "technology"
+          },
+          {
+            "name": "Trello",
+            "type": "technology"
+          },
+          {
+            "name": "Ubuntu",
+            "type": "technology"
+          },
+          {
+            "name": "VirtualBox",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio Code",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
