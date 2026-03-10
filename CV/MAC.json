@@ -135,6 +135,45 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Flower Front-End Project",
+          "description": "Small project made with a friend on January 2024, to practice different front-end and design languages, like JavaScript, HTML and SCSS.\n\nCompletely responsive, it provides a beautiful view of a Flower Shop, showcasing diverse Bootstrap components and important elements like good palette contrast for visually impaired people.",
+          "URL": "https://alexandra-sv.github.io/Flower_Project/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/03/10/168ad4ca-9d1e-4197-8765-b45d9dac577a_logo_background.png",
+            "alt": "logo_background.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-01-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-01-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -509,6 +548,11 @@
       }
     ],
     "desiredJobDescription": "I really value continuous learning and interest in trying new tools and sharing the knowledge gained. Knowledge should flow between colleagues, as I think this is the best way to learn. Training should be a fundamental pillar to continue improving every day and stay motivated at work.  I prefer remote work.",
-    "goodPractices": "I am interested in maintaining high quality code, using tools while also implementing good coding practices. "
+    "goodPractices": "I am interested in maintaining high quality code, using tools while also implementing good coding practices. ",
+    "projects": [
+      {
+        "name": "Flower Front-End Project"
+      }
+    ]
   }
 }
